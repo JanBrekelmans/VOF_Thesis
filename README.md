@@ -4,10 +4,10 @@ Simulation of two-phase Navier-Stokes equations with the volume of fluid method.
 
 
 ## Bubble rising throug fluid
-[![Bubble rising through fluid](https://i9.ytimg.com/vi/4YOFPMnxe0A/mq1.jpg?sqp=CPDflv0F&rs=AOn4CLATkj4gzhP67khfvoseca-sA0FlYg)](https://youtu.be/4YOFPMnxe0A)
+[![Bubble rising through fluid](https://github.com/JanBrekelmans/VOF_Thesis/blob/main/pictures/bubble_rising.jpg?raw=true)](https://youtu.be/4YOFPMnxe0A)
 
 ## Liquid dripping from roof
-[![Liquid dripping from roof](https://i9.ytimg.com/vi/g0_q9emdDWs/mq2.jpg?sqp=CJzilv0F&rs=AOn4CLARJx1uRDqhLU3saNfK29nrqpwjYg)](https://youtu.be/g0_q9emdDWs)
+[![Liquid dripping from roof](https://github.com/JanBrekelmans/VOF_Thesis/blob/main/pictures/dripping_roof.jpg?raw=true)](https://youtu.be/g0_q9emdDWs)
 
 ## Comparison of dam break with and without interface compression
-[![Dam break comparison](https://i9.ytimg.com/vi/Vu-9WIa6wd4/mq1.jpg?sqp=CJzilv0F&rs=AOn4CLBGnFjRBsO4py_0WYLgAUFeo9DoPw)](https://youtu.be/Vu-9WIa6wd4)
+[![Dam break comparison](https://github.com/JanBrekelmans/VOF_Thesis/blob/main/pictures/comparison_dambreak.jpg?raw=true)](https://youtu.be/Vu-9WIa6wd4)
